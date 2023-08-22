@@ -1,5 +1,5 @@
 # Портфолио SQL
-Elizaveta Bogomolova | Елизавета Богомолова | baescani@yandex.ru |[Телеграм](https://t.me/baescani)</p> 
+Elizaveta Bogomolova | Елизавета Богомолова | baescani@yandex.ru | [telegram](https://t.me/baescani)</p> 
 ------
 
 Ниже приведены SQL запросы, краткое описание задачи. 
